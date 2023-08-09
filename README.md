@@ -11,7 +11,7 @@
 
 - 
 
-- 📫 How to reach me: [Почта](mailto:abdurakhmanovkurb@yandex.ru), [Мой профиль в Telegram](https://t.me/adam_windu)
+- 📫 How to reach me: [Mail](mailto:abdurakhmanovkurb@yandex.ru), [Telegram](https://t.me/adam_windu)
 
 <!---
 KurbanDuburlan/KurbanDuburlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
