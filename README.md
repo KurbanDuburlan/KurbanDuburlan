@@ -7,7 +7,7 @@
 
 | Project                                          | Description                                                                                                      | Sphere           | Stack                                                         |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------|
-| [Analysis-of-the-success-of-the-video-game-market]([ссылка](https://github.com/KurbanDuburlan/Analysis-of-the-success-of-the-video-game-market)) | identifying patterns that determine the success of the gaming platform. | market analysis | python, pandas, numpy, matplotlib, seaborn, scipy           |
+| ([Analysis-of-the-success-of-the-video-game-market](https://github.com/KurbanDuburlan/Analysis-of-the-success-of-the-video-game-market)) | identifying patterns that determine the success of the gaming platform. | market analysis | python, pandas, numpy, matplotlib, seaborn, scipy           |
 
 - 
 
