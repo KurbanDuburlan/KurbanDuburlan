@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kurban 
 - 👀 I’m interested in logics, math and AI tech, legaltech.  
-- Finishing Data Science course in Yandex Practicum 🌱
+- Finished Data Science course in Yandex Practicum 🌱
 
 - My projects:
 
